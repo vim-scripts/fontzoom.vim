@@ -1,0 +1,14 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2931
+
+*fontzoom* is a Vim plugin to control gui fontsize.  You can change fontsize
+with + and - keys(when default setting).  You can also use the [count].
+This plugin remember 'guifont', 'lines', and 'columns' when you change
+fontsize first.  And tries to keep the size of the window as much as possible.
+
+similar plugins:
+guifont++.vim        http://www.vim.org/scripts/script.php?script_id=593
+zoom.vim        http://www.vim.org/scripts/script.php?script_id=2321
+fontsize.vim        http://www.vim.org/scripts/script.php?script_id=2809
+
+Latest Version:
+http://github.com/thinca/vim-fontzoom
