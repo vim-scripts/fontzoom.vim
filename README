@@ -6,9 +6,9 @@ This plugin remember 'guifont', 'lines', and 'columns' when you change
 fontsize first.  And tries to keep the size of the window as much as possible.
 
 similar plugins:
-guifont++.vim        http://www.vim.org/scripts/script.php?script_id=593
-zoom.vim        http://www.vim.org/scripts/script.php?script_id=2321
-fontsize.vim        http://www.vim.org/scripts/script.php?script_id=2809
+guifont++.vim        vimscript #593
+zoom.vim        vimscript #2321
+fontsize.vim        vimscript #2809
 
 Latest Version:
-http://github.com/thinca/vim-fontzoom
+https://github.com/thinca/vim-fontzoom
